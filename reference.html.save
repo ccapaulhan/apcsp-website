@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+
+<html>
+        <head>
+
+                <title>Commands</title>
+
+        </head>
+	
+        <body>
+		<h1>Commands for Linux</h1>
+		<table style="width:100%"
+			<tr> 
+				<th>Command</th>
+				<th>Description</th>
+				<th>Example of Usage</th>
+			</tr>
+			<tr>
+				<td>man</td>
+				<td>This command shows you the interface showing the manual for a linux command</td>
+				<td>man mkdir</td>
+			</tr>
+			<tr>
+				<td>ls</td>
+				<td>This command lists the contents of a directory</td>
+				<td>ls Pictures</td>
+			</tr>
+			<tr>
+				<td>cal</td> 
+				<td>This displays a calender in the terminal</td>
+				<td>cal</td>
+			</tr>
+			<tr>
+				<td>arch</td>
+				<td>Prints the machine hardware name</td>
+				<td>arch</td>
+			</tr>
+			<tr>
+                                <td>arch</td>
+                                <td>Prints the machine hardware name</td>
+                                <td>arch</td>
+                        </tr>
+<tr>
+                                <td>arch</td>
+                                <td>Prints the machine hardware name</td>
+                                <td>arch</td>
+                        </tr>
+                
+   	</body>
+
+</html>
+
